@@ -1,4 +1,5 @@
 <html>
+  <div style= "text-align: left; color: #00CC0E background-color: #F5DAA3>
 <body>
   <h1> History of Video Games</h1>
     <p>Video games are digital games that can be played on a computer device (e.g., tablets, smartphones, laptops, consoles, etc.). <em>Originally</em> designed simply for entertainment, video games have grown into their own industry and field of learning, generating <strong>billions of dollars</strong> each year.</p>
@@ -36,7 +37,7 @@
    <h1> The Rise of Games in the East (1985-1995) </h1>
         <p>1. In 1985 the Nintendo Entertainment System NES revives the video game industry and begins the start of video games again.</p>
         <p>2. In 1987 game developer Miyamoto creates the first Legend of Zelda game and he also won the video games license for Dungeons and Dragons.</p>
-        <p>  In 1990 the very popular “Solitaire” card game is put on a computer and it starts popularizing computer gaming.</p>
+        <p>3. In 1990 the very popular “Solitaire” card game is put on a computer and it starts popularizing computer gaming.</p>
 <div id="introduction">
    <h1> Tech Company Takeover (1995-2010) </h1>
       <p> 1. In 1995 Sega released its Saturn system, the first 32 bit console that played on a CD like cartridge. The following year Nintendo launched its Nintendo 64 console.</p>
@@ -45,9 +46,10 @@
 <div id="introduction">
    <h1> Today in Gaming(2010-Now) </h1>
       <p> 1. In 2010 the popular block building game Minecraft starts gaining even more popularity.</p>
-      <p> 2. In 2011 Activision's Skylanders Spyro’s Adventures comes out with different portable characters for figures.
-      <p> 3. In 2014 the very popular game of Clash of Clans comes out for free on Apple or Android app store
-      <p> 4. In 2015 the Amazon streaming site twitch becomes very popular and it popularizes E-Sports
-      <p> 5. 
-
-  
+      <p> 2. In 2011 Activision's Skylanders Spyro’s Adventures comes out with different portable characters for figures.</p>
+      <p> 3. In 2014 the very popular game of Clash of Clans comes out for free on Apple or Android app store</p>
+      <p> 4. In 2015 the Amazon streaming site twitch becomes very popular and it popularizes E-Sports</p>
+      <p> 5. In 2017 the very popular Fortnite Battle Royale gets released and its a huge hit, and continues to be a hit into 2019.</p>
+  <h2>Useful Websites</h2>
+  <p><a> https://electronics.howstuffworks.com/video-game2.htm </a></p>
+  </html>
